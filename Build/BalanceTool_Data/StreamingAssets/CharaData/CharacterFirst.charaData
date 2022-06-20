@@ -1,0 +1,1 @@
+{"characterName":"Toto","totalHP":200,"armorHP":0,"moveSpeed":20.0,"damage":5,"fireRate":2.0,"maxAmmo":50,"reloadTime":1.0,"isProj":false,"projSpeed":0.0,"projPrefab":{"m_FileID":2680,"m_PathID":0},"spreadRadius":2.0,"fireMode":0,"spellAtkPoints":100.0,"spellTnkPoints":10.0,"spellPointsTrigger":5000.0}

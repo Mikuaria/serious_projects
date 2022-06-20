@@ -1,23 +1,38 @@
-COMANDES GAMEPLAY
+V 1.0
 
-ZQSD deplacement
-Espace Sauter
-clic gauche tirer
-A spell
+Made by Gael Ettendorff (Gakuiyo on github)
+
+Made as a personal project for an exam
+
+Feel free to download it and change whatever you want or just use it for your projects
+
+If you wants to modify it, don't forget to put this readme in it
+
+Unity version : 2020.3.25f1
+
+////////////////////////////////////////////////////////////
+
+GAMEPLAY INPUTS
+
+ZQSD - Move
+Space - Jump
+Left click - Shoot
+A - Use spell
+
+EDIT INPUTS
+
+Scroll wheel - Change camera moving speed
+A / E - Go up / down
+
+Right click and drag - Move camera
 
 
+DATA INPUTS
 
-COMMANDES EDITEUR
+F1 - Change tool state
 
-Scroll molette changer la vitesse de déplacement
-AE monter / descendre
+F2 - Save data
 
-Clic droit et drag pour bouger la cam
+F3 - Load data
 
-F1 changer de State
-
-F2 Save data
-
-F3 Load data
-
-F4 Load Enemy data
+F4 - Load Enemy data

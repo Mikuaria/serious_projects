@@ -1,0 +1,1 @@
+{"characterName":"Tata","totalHP":500,"armorHP":200,"moveSpeed":20.0,"damage":1,"fireRate":1.0,"maxAmmo":1,"reloadTime":1.0,"isProj":false,"projSpeed":0.0,"projPrefab":{"m_FileID":2680,"m_PathID":0},"spreadRadius":0.0,"fireMode":0,"spellAtkPoints":20.0,"spellTnkPoints":500.0,"spellPointsTrigger":5000.0}

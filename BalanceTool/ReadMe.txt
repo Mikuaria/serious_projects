@@ -1,6 +1,6 @@
 V 1.0
 
-Made by Gael Ettendorff (Gakuiyo on github)
+Made by Gaelle Ettendorff (Mikuaria on github)
 
 Made as a personal project for an exam
 
